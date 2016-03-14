@@ -1,5 +1,13 @@
 # Tribute
 <html>
+.thick-orange-border {
+  border-color: #F25100;
+  border-width: 10px;
+  border-style: solid;
+}
+
+.orange-text {
+  color: #F25100;}
 
 <head>
   <h1 class="text-center orange-text"> Echo the Brittany</h1>
